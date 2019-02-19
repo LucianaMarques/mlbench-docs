@@ -7,6 +7,15 @@ Make sure to read :doc:`prerequisites` before installing mlbench.
 
 All guides assume you have checked out the `mlbench-helm <https://github.com/mlbench/mlbench-helm>`__ github repository and have a terminal open in the checked-out ``mlbench-helm`` directory.
 
+Google Cloud and Cluster Setup
+------------------------------
+
+To install and setup Google Clouds and create a clustes, run the following script:
+
+.. codeblock:: bash
+
+    $ ./blob/develop/google_cloud_setup.sh)        
+
 .. _helm-charts:
 
 Helm Chart values

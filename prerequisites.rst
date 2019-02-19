@@ -3,6 +3,8 @@
 Prerequisites
 =============
 
+All the following prerequisites can be installed with a setup script, better described in the `Installation <https://mlbench.readthedocs.io/en/latest/installation.html>`_ section. Please refer to this page for reference only.
+
 Kubernetes
 ----------
 

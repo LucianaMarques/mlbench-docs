@@ -64,11 +64,7 @@ Ready to contribute? Here's how to set up `mlbench` for local development.
 
     $ git clone git@github.com:your_name_here/mlbench.git
 
-3. Install your local copy into a virtualenv. Assuming you have virtualenvwrapper installed, this is how you set up your fork for local development::
-
-    $ mkvirtualenv mlbench
-    $ cd mlbench/
-    $ python setup.py develop
+3. Make sure you have a Google Cloud Account and the project's prerequisites.
 
 4. Create a branch for local development::
 
